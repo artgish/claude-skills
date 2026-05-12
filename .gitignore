@@ -1,0 +1,20 @@
+# Built artifacts
+dist/
+*.skill
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Skill dev-only
+skills/*/evals/
