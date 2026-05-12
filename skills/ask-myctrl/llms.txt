@@ -1,0 +1,122 @@
+# myctrl.tools
+
+> Browse and compare 105+ security and compliance frameworks — NIST 800-53, FedRAMP, PCI DSS, ISO 27001, CIS Controls, CMMC, EU AI Act, and more.
+
+myctrl.tools is a searchable, static reference for security engineers and GRC professionals. It covers US Federal, international, AI/ML, privacy, and enterprise frameworks with cross-framework mappings and technology-specific implementation guidance. All framework data is sourced from official publications (NIST, PCI SSC, ISO, CIS, CISA, etc.) and the Secure Controls Framework (SCF).
+
+## Frameworks
+
+- [45 CFR 155.260](https://myctrl.tools/frameworks/cms-45cfr.md): 59 requirements — CMS Privacy and Security Standards
+- [Adobe CCF](https://myctrl.tools/frameworks/adobe-ccf-v5.md): 317 controls — Adobe Common Controls Framework - Open-source unified control framework mapping to 20+ compliance standards
+- [AIUC-1](https://myctrl.tools/frameworks/aiuc-1.md): 51 requirements — AI Agent Security, Safety and Reliability Standard
+- [APEC Privacy Framework](https://myctrl.tools/frameworks/apec-privacy.md): 31 principles — APEC Privacy Framework
+- [Australia Essential Eight](https://myctrl.tools/frameworks/au-essential-8.md): 24 controls — Australian Essential Eight Maturity Model
+- [Australia ISM](https://myctrl.tools/frameworks/au-ism.md): 912 controls — Australian Information Security Manual
+- [BSI C5](https://myctrl.tools/frameworks/bsi-c5.md): 121 criteria — Cloud Computing Compliance Criteria Catalogue - German Federal Office for Information Security
+- [Canada ITSP 10.171](https://myctrl.tools/frameworks/canada-itsp.md): 382 controls — Canadian IT Security Publication
+- [CCPA](https://myctrl.tools/frameworks/ccpa.md): 825 requirements — California Consumer Privacy Act - California state privacy regulation
+- [China Cybersecurity Law](https://myctrl.tools/frameworks/china-csl.md): 93 requirements — Chinese Cybersecurity Law
+- [CIS Controls](https://myctrl.tools/frameworks/cis-controls-v8.md): 153 safeguards — Critical Security Controls for Effective Cyber Defense
+- [CIS Controls v8.1 (Detailed)](https://myctrl.tools/frameworks/cis-v8-detailed.md): 166 safeguards — CIS Controls Detailed Safeguards
+- [CISA CPG](https://myctrl.tools/frameworks/cisa-cpg.md): 38 goals — Cross-Sector Cybersecurity Performance Goals
+- [CISA Secure by Design](https://myctrl.tools/frameworks/cisa-sbd.md): 18 goals — Principles and pledge goals for building cybersecurity into product design — jointly published by CISA, FBI, NSA, and 17+ international partners
+- [CISA SSDAF](https://myctrl.tools/frameworks/cisa-ssdaf.md): 15 requirements — Secure Software Development Attestation Form
+- [CMMC](https://myctrl.tools/frameworks/cmmc-v2.md): 110 practices — Cybersecurity Maturity Model Certification for DoD contractors
+- [CMMC 2.0 Level 1](https://myctrl.tools/frameworks/cmmc-l1.md): 16 practices — Cybersecurity Maturity Model Certification Level 1
+- [CMMC 2.0 Level 1 AOS](https://myctrl.tools/frameworks/cmmc-l1-aos.md): 59 objectives — CMMC Level 1 Assessment Objectives
+- [Cyber Essentials](https://myctrl.tools/frameworks/cyber-essentials-uk.md): 30 requirements — UK NCSC Cyber Essentials certification - 5 technical controls to protect against common cyber attacks
+- [Data Privacy Management Principles](https://myctrl.tools/frameworks/dpmp.md): 83 principles — Data Privacy Management Principles
+- [DHS TIC 3.0](https://myctrl.tools/frameworks/tic-3.md): 117 capabilities — Trusted Internet Connections
+- [DoD SRG](https://myctrl.tools/frameworks/dod-srg.md): 622 controls — DoD Cloud Computing Security Requirements Guide - FedRAMP+ controls by Impact Level
+- [DoD Zero Trust Roadmap](https://myctrl.tools/frameworks/dod-zt-roadmap.md): 202 activities — DoD Zero Trust Strategy Roadmap
+- [DoD ZTA Reference Architecture](https://myctrl.tools/frameworks/dod-zta.md): 58 capabilities — DoD Zero Trust Reference Architecture
+- [EU AI Act](https://myctrl.tools/frameworks/eu-ai-act.md): 21 requirements — European Union Artificial Intelligence Act - Risk-based regulatory framework for AI systems
+- [EU AI Act (Detailed)](https://myctrl.tools/frameworks/eu-ai-act-strm.md): 973 requirements — EU AI Act Detailed Requirements
+- [EU CRA Annexes](https://myctrl.tools/frameworks/eu-cra-annexes.md): 156 requirements — EU Cyber Resilience Act Annexes
+- [EU Cyber Resilience Act](https://myctrl.tools/frameworks/eu-cra.md): 337 requirements — EU Cyber Resilience Act
+- [EU DORA](https://myctrl.tools/frameworks/eu-dora.md): 311 requirements — Digital Operational Resilience Act
+- [Executive Order 14028](https://myctrl.tools/frameworks/eo-14028.md): 16 requirements — Improving the Nations Cybersecurity
+- [FBI CJIS](https://myctrl.tools/frameworks/cjis.md): 232 requirements — Criminal Justice Information Services Security Policy
+- [FCA CRM](https://myctrl.tools/frameworks/fca-crm.md): 38 requirements — Farm Credit Administration Cyber Risk Management
+- [FedRAMP 20x KSI](https://myctrl.tools/frameworks/fedramp-20x-ksi.md): 60 indicators — Key Security Indicators for FedRAMP 20x authorization
+- [FedRAMP Rev 5](https://myctrl.tools/frameworks/fedramp-rev5.md): 410 controls — Federal Risk and Authorization Management Program Security Baselines
+- [FIPPs](https://myctrl.tools/frameworks/fipps.md): 8 principles — Fair Information Practice Principles
+- [GDPR](https://myctrl.tools/frameworks/gdpr.md): 499 articles — General Data Protection Regulation - EU regulation on data protection and privacy
+- [GLBA (16 CFR 314)](https://myctrl.tools/frameworks/glba.md): 57 requirements — Gramm-Leach-Bliley Act Safeguards Rule
+- [GovRAMP](https://myctrl.tools/frameworks/govramp.md): 295 controls — Government Risk and Authorization Management Program - Security Baselines for State and Local Government Cloud Services
+- [HIPAA Security Rule](https://myctrl.tools/frameworks/hipaa-security.md): 131 requirements — Health Insurance Portability and Accountability Act - Security safeguards for electronic protected health information (ePHI)
+- [HIPAA Simplification 2013](https://myctrl.tools/frameworks/hipaa-simp.md): 1114 requirements — HIPAA Administrative Simplification
+- [IEC TR 60601-4-5](https://myctrl.tools/frameworks/iec-60601.md): 43 requirements — Medical Device Security
+- [IMO Maritime Cyber Risk](https://myctrl.tools/frameworks/imo-maritime.md): 37 requirements — IMO Maritime Cyber Risk Management
+- [India DPDPA](https://myctrl.tools/frameworks/india-dpdpa.md): 292 requirements — India Digital Personal Data Protection Act
+- [India SEBI Guidelines](https://myctrl.tools/frameworks/india-sebi.md): 129 controls — SEBI Cybersecurity Guidelines
+- [ISO 27001](https://myctrl.tools/frameworks/iso-27001-2022.md): 93 controls — ISO 27001:2022 Annex A control references with NIST CSF 2.0 mappings
+- [ISO 27001:2022 (Detailed)](https://myctrl.tools/frameworks/iso-27001-detailed.md): 161 controls — ISO 27001 Detailed Controls
+- [ISO 27002:2022](https://myctrl.tools/frameworks/iso-27002.md): 99 controls — ISO 27002 Security Controls
+- [ISO 27701](https://myctrl.tools/frameworks/iso-27701.md): 104 controls — ISO Privacy Information Management
+- [ISO 29100](https://myctrl.tools/frameworks/iso-29100.md): 11 principles — ISO Privacy Framework
+- [ISO 42001:2023 (Detailed)](https://myctrl.tools/frameworks/iso-42001-detailed.md): 155 controls — ISO AI Management System Detailed
+- [ISO/IEC 23894](https://myctrl.tools/frameworks/iso-23894.md): 28 clauses — AI - Guidance on risk management (placeholder framework)
+- [ISO/IEC 42001](https://myctrl.tools/frameworks/iso-42001.md): 65 clauses — AI Management System - Requirements with guidance for use (placeholder framework)
+- [ITSG-33](https://myctrl.tools/frameworks/itsg-33.md): 922 controls — IT Security Risk Management - Canadian Government Security Control Catalogue
+- [Kubernetes STIG](https://myctrl.tools/frameworks/kubernetes-stig-v2r4.md): 94 findings — DoD Security Technical Implementation Guide for Kubernetes container orchestration
+- [NAIC Model Law 668](https://myctrl.tools/frameworks/naic-668.md): 126 requirements — NAIC Insurance Data Security Model Law
+- [NERC CIP](https://myctrl.tools/frameworks/nerc-cip.md): 249 requirements — Critical Infrastructure Protection Standards
+- [Nevada Regulation 5](https://myctrl.tools/frameworks/nv-reg5.md): 13 requirements — Nevada Insurance Cybersecurity Regulation
+- [New Zealand HISF](https://myctrl.tools/frameworks/nz-hisf.md): 239 controls — New Zealand Health Information Security Framework
+- [New Zealand HISF Suppliers](https://myctrl.tools/frameworks/nz-hisf-suppliers.md): 69 controls — NZ HISF Supplier Requirements
+- [NIS2 Directive](https://myctrl.tools/frameworks/nis2.md): 473 requirements — Network and Information Security Directive 2 - EU cybersecurity legislation
+- [NIST AI 600-1](https://myctrl.tools/frameworks/nist-ai-600-1.md): 261 requirements — Artificial Intelligence Risk Management
+- [NIST AI RMF](https://myctrl.tools/frameworks/nist-ai-rmf.md): 72 actions — AI Risk Management Framework Playbook - Suggested actions for trustworthy AI
+- [NIST CSF](https://myctrl.tools/frameworks/nist-csf-v2.md): 106 outcomes — Cybersecurity Framework 2.0 for improving critical infrastructure security
+- [NIST SP 800-161](https://myctrl.tools/frameworks/nist-800-161.md): 307 controls — Supply Chain Risk Management
+- [NIST SP 800-171](https://myctrl.tools/frameworks/nist-800-171-r2.md): 110 requirements — Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations
+- [NIST SP 800-171 Rev 3](https://myctrl.tools/frameworks/nist-800-171-r3.md): 382 requirements — CUI Protection Requirements Rev 3
+- [NIST SP 800-171A](https://myctrl.tools/frameworks/nist-800-171a.md): 407 requirements — Assessing CUI Security Requirements
+- [NIST SP 800-171A Rev 3](https://myctrl.tools/frameworks/nist-800-171a-r3.md): 638 requirements — Assessing CUI Security Rev 3
+- [NIST SP 800-172](https://myctrl.tools/frameworks/nist-800-172.md): 35 requirements — Enhanced Security for CUI
+- [NIST SP 800-207 Zero Trust](https://myctrl.tools/frameworks/nist-800-207.md): 7 requirements — Zero Trust Architecture
+- [NIST SP 800-218 SSDF](https://myctrl.tools/frameworks/nist-800-218.md): 60 practices — Secure Software Development Framework
+- [NIST SP 800-53](https://myctrl.tools/frameworks/nist-800-53-r5.md): 1196 controls — Security and Privacy Controls for Information Systems and Organizations
+- [NIST SSDF](https://myctrl.tools/frameworks/ssdf.md): 42 tasks — Secure Software Development Framework - Practices for integrating security into SDLC
+- [NY DFS 23 NYCRR 500](https://myctrl.tools/frameworks/ny-dfs-500.md): 228 requirements — NY Department of Financial Services Cybersecurity Regulation
+- [OECD Privacy Principles](https://myctrl.tools/frameworks/oecd-privacy.md): 18 principles — OECD Privacy Guidelines
+- [Oregon CPA](https://myctrl.tools/frameworks/or-cpa.md): 165 requirements — Oregon Consumer Privacy Act
+- [OSFI B-13](https://myctrl.tools/frameworks/canada-osfi-b13.md): 81 controls — Canadian OSFI Technology and Cyber Risk Management
+- [PCI DSS](https://myctrl.tools/frameworks/pci-dss-v4.md): 204 requirements — Payment Card Industry Data Security Standard
+- [Saudi Arabia IoT Guidelines](https://myctrl.tools/frameworks/sa-iot.md): 108 controls — Saudi Arabia IoT Cybersecurity Guidelines
+- [Saudi Arabia PDPL](https://myctrl.tools/frameworks/sa-pdpl.md): 139 requirements — Saudi Arabia Personal Data Protection Law
+- [SCF](https://myctrl.tools/frameworks/scf-2025.md): 1451 controls — Secure Controls Framework - A comprehensive meta-framework harmonizing 100+ security standards
+- [SEC Cybersecurity Rule](https://myctrl.tools/frameworks/sec-cyber.md): 17 requirements — SEC Cybersecurity Risk Management Rule
+- [SOC 2](https://myctrl.tools/frameworks/soc2-tsc.md): 62 criteria — Trust Services Criteria for Security, Availability, Processing Integrity, Confidentiality, and Privacy
+- [SOC 2 TSC (Detailed)](https://myctrl.tools/frameworks/soc2-tsc-detailed.md): 400 criteria — SOC 2 Trust Services Criteria Detailed
+- [Spain ENS](https://myctrl.tools/frameworks/spain-ens.md): 175 controls — Spanish National Security Scheme
+- [SPARTA](https://myctrl.tools/frameworks/sparta.md): 91 requirements — Space Cybersecurity Standards
+- [Tennessee IPA](https://myctrl.tools/frameworks/tn-ipa.md): 88 requirements — Tennessee Information Protection Act
+- [Texas CDPA](https://myctrl.tools/frameworks/tx-cdpa.md): 175 requirements — Texas Data Privacy and Security Act
+- [Texas SB 2610](https://myctrl.tools/frameworks/tx-sb2610.md): 43 requirements — Texas Cybersecurity Requirements
+- [TISAX](https://myctrl.tools/frameworks/tisax.md): 113 requirements — Trusted Information Security Assessment Exchange
+- [TX-RAMP](https://myctrl.tools/frameworks/tx-ramp.md): 223 controls — Texas Risk and Authorization Management Program - Security assessment and certification for cloud computing services used by Texas state agencies
+- [UAE NIAF](https://myctrl.tools/frameworks/uae-niaf.md): 16 controls — UAE National Information Assurance Framework
+- [UK CAF](https://myctrl.tools/frameworks/uk-caf.md): 66 controls — UK Cyber Assessment Framework
+- [UK DEF STAN 05-138](https://myctrl.tools/frameworks/uk-defstan.md): 147 controls — UK Defence Standard 05-138
+- [US Data Privacy Framework](https://myctrl.tools/frameworks/us-dpf.md): 214 principles — US-EU Data Privacy Framework
+- [Virginia CDPA](https://myctrl.tools/frameworks/va-cdpa.md): 103 requirements — Virginia Consumer Data Protection Act
+
+## Risk Lists
+
+- [OWASP API Security Top 10](https://myctrl.tools/risk-lists/owasp-api-top10.md): 10 risks — The OWASP API Security Top 10 represents the most critical security risks to APIs
+- [OWASP Mobile Top 10](https://myctrl.tools/risk-lists/owasp-mobile-top10.md): 10 risks — The OWASP Mobile Top 10 represents the most critical security risks to mobile applications
+- [OWASP Smart Contract Top 10](https://myctrl.tools/risk-lists/owasp-smart-contract-top10.md): 10 risks — The most critical security risks in smart contract development, based on 2025 incident data
+- [OWASP Top 10](https://myctrl.tools/risk-lists/owasp-web-top10.md): 10 risks — The OWASP Top 10 is a standard awareness document for web application security risks
+- [OWASP Top 10 for LLMs](https://myctrl.tools/risk-lists/owasp-llm-top10.md): 10 risks — Security risks for Large Language Model applications
+
+## Features
+
+- [Cross-Framework Mappings](https://myctrl.tools/crosswalk.md): Browse mappings between frameworks (NIST ↔ CSF, AI RMF ↔ ISO 42001, etc.)
+- [Technology Guidance](https://myctrl.tools/guidance.md): Implementation guidance with verification commands for IAM, cloud, containers, DevSecOps, and AI platforms
+- [Framework Comparison](https://myctrl.tools/compare.md): Side-by-side framework comparison tool
+
+## Optional
+
+- [API Documentation](https://myctrl.tools/api-docs.md): Authenticated REST API for programmatic access to all framework and control data

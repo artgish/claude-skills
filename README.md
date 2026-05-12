@@ -1,6 +1,6 @@
-# Cloudchipr Claude Skills
+# Claude Skills
 
-Shared [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) skills for the Cloudchipr team. Skills are reusable instruction bundles that teach Claude how to handle recurring tasks — compliance docs, Kubernetes diagnostics, Terraform patterns, internal runbooks, etc.
+Shared [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) skills. Skills are reusable instruction bundles that teach Claude how to handle recurring tasks — compliance docs, Kubernetes diagnostics, Terraform patterns, internal runbooks, etc.
 
 This repo holds the source for our skills and publishes them as installable `.skill` files (zip archives) on the [Releases](../../releases) page.
 
@@ -33,17 +33,17 @@ my-skill/
 └── assets/           # optional — templates, fixtures, etc.
 ```
 
-The `SKILL.md` frontmatter must include `name` and `description`. The `description` is what Claude reads to decide whether to use the skill, so be specific about *when* it should trigger.
+The `SKILL.md` frontmatter must include `name` and `description`. The `description` is what Claude reads to decide whether to use the skill, so be specific about _when_ it should trigger.
 
 Example:
 
 ```markdown
 ---
-name: cloudchipr-soc2-responder
-description: Drafts SOC 2 questionnaire responses in Cloudchipr's voice and format. Use whenever the user is filling out a security questionnaire, responding to a customer's compliance request, or writing SOC 2 system description content.
+name: soc2-responder
+description: Drafts SOC 2 questionnaire responses in formal voice and format. Use whenever the user is filling out a security questionnaire, responding to a customer's compliance request, or writing SOC 2 system description content.
 ---
 
-# Cloudchipr SOC 2 Responder
+# SOC 2 Responder
 
 ...
 ```

@@ -35,7 +35,7 @@ Note what's happening there: the description names the **task**, the **concrete 
 ## Naming
 
 - Folder name = `name:` in frontmatter, kebab-case (e.g., `terraform-for-debugger`).
-- Prefix with a domain when it helps disambiguate: `cloudchipr-soc2-responder`, `azure-apim-llm-observability`.
+- Prefix with a domain when it helps disambiguate: `soc2-responder`, `azure-apim-llm-observability`.
 
 ## Things that don't belong in a skill
 
@@ -53,7 +53,7 @@ python scripts/package.py skills/your-skill
 ./scripts/install-all.sh
 ```
 
-Then open Claude Code and try a prompt that *should* trigger your skill, plus one that shouldn't, to make sure the description isn't over- or under-firing.
+Then open Claude Code and try a prompt that _should_ trigger your skill, plus one that shouldn't, to make sure the description isn't over- or under-firing.
 
 ## More background
 
